@@ -2,9 +2,9 @@
 #include <PubSubClient.h>
 #include <Wire.h>
 
-const char* ssid = "Abhayam";
-const char* password = "Kala@7272";
-const char* mqtt_server = "192.168.0.68";
+const char* ssid = "#######";
+const char* password = "$$$$$$$";
+const char* mqtt_server = "#$@#$#@";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
